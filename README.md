@@ -13,4 +13,8 @@ no special type for decimal it is same as number
 ->return type of all non primitive datatypes is functions and return type of functions is known as function objects,
 but when u use typeof method we get type as  "object" !!!
 
+
+->memory
+stack (primitive) - wait wait you will not get the original reference yo will just get a copy ,non primitive(heap) you will get the original reference.
+
 ->javascript is a dynamically typed language...
